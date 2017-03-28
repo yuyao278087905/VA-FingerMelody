@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item type="id" name="sd_outline_chapter"></item>
+    <item type="id" name="sd_outline_more"></item>
+    
+    <!-- annotation-->
+    <item type="id" name="rd_jumppage_previous"></item>
+    <item type="id" name="rd_jumppage_next"></item>
+
+    <!-- AppKeyboardUtil -->
+    <item type="id" name="keyboard_util"/>
+
+    <item name="rd_panel_tab_item" type="id"/>
+
+    <item name="rd_show_animation_tag" type="id"/>
+    <item name="rd_hide_animation_tag" type="id"/>
+
+    </resources>

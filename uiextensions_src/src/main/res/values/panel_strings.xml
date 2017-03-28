@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- outline -->
+    <string name="rv_panel_phone_top_outline">Outline</string>
+    <string name="rv_panel_outline_noinfo">No Outline Information</string>
+</resources>

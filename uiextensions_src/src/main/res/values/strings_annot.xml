@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fx_string_copy">Copy</string>
+    <string name="fx_string_reply">Reply</string>
+	<string name="fx_string_comment">Comment</string>
+	<string name="fx_string_color">Color</string>
+    <string name="fx_string_opacity">Opacity</string>
+    <string name="fx_string_linewidth">Linewidth</string>
+	<string name="fx_string_edit">Edit</string>
+	<string name="fx_string_fontname">Font Name</string>
+	<string name="fx_string_border">Border</string>
+
+    <string name="fx_string_open">Open</string>
+    <string name="fx_string_reanme">Rename</string>
+
+	<string name="fx_string_note">Note</string>
+	<string name="fx_string_ok">OK</string>
+	<!--annotation text  -->
+    <string name="annot_text_comment">Comment</string>
+    <string name="annot_text_key">Key</string>
+    <string name="annot_text_note">Note</string>
+    <string name="annot_text_help">Help</string>
+    <string name="annot_text_newparagraph">New Paragraph</string>
+    <string name="annot_text_paragraph">Paragraph</string>
+    <string name="annot_text_insert">Insert</string>
+
+    <!--Annot menu-->
+    <string name="rd_am_item_copy_text">Copy Text</string>
+    <string name="fx_string_highlight">Highlight</string>
+    <string name="fx_string_underline">Underline</string>
+    <string name="fx_string_strickout">Strikeout</string>
+    <string name="fx_string_squiggly">Squiggly</string>
+    <string name="fx_string_signature">Sign</string>
+    <string name="fx_am_style">Appearance</string>
+
+    <string name="hm_clear">Clear</string>
+    <string name="cloud_delete_tv">Delete</string>
+    <string name="rd_comment_reply_list">Comments</string>
+    <string name="rv_panel_annot_delete_tips">Are you sure you want to delete the comment(s) and related replies?</string>
+    <string name="rd_panel_clear_comment">Are you sure you want to clear all comments?</string>
+
+    <!--Form menu item-->
+    <string name="menu_more_item_reset">Reset Form Fields</string>
+    <string name="menu_more_item_import">Import Form Data</string>
+    <string name="menu_more_item_export">Export Form Data</string>
+
+    <!-- InsertText and ReplaceText-->
+    <string name="fx_string_inserttext">Insert</string>
+    <string name="fx_string_replacetext">Replace</string>
+    <!--<string name="rd_pb_scale">Scale relative to target page</string> -->
+
+    <string name="annot_continue_create">Keep tool selected</string>
+    <string name="annot_single_create">Single Comment</string>
+
+</resources>

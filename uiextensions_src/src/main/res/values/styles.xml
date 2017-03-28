@@ -1,0 +1,31 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+    </style>
+
+    <style name="fx_dialog_text_edit_title_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">56dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textColor">#FF179CD8</item>
+        <item name="android:textSize">@dimen/ux_text_height_title</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:background">@drawable/fx_dialog_title_radian</item>
+    </style>
+
+    <style name="rv_dialog_style" parent="@android:style/Theme.Dialog">
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/ux_color_translucent</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <style name="rd_dialog_fullscreen_style">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowFrame">@null</item>
+    </style>
+</resources>

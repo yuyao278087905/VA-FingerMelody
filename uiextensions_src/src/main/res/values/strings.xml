@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">uiextensions_src</string>
+
+    <string name="fx_string_cancel">Cancel</string>
+
+    <!--  Search -->
+    <string name="search_hint">Input text to search</string>
+    <string name="search_find_number">Total Found: %1$s</string>
+    <string name="search_page_number">Page %1$s</string>
+
+    <string name="fx_string_delete">Delete</string>
+    <string name="rv_panel_annot_loading_start">Loading&#8230;</string>
+
+    <string name="rd_pb_scale">Scale relative to target page</string>
+
+    <string name="pb_fill_tab">Fill</string>
+    <string name="pb_type_tab">Icon</string>
+
+    <string name="fm_annot_copy">Content has been added to clipboard.</string>
+
+    <string name="fm_favorite">Favorite</string>
+    <string name="fm_move">Move</string>
+
+    <string name="fm_paste_replace">Replace</string>
+    <string name="fm_paste_skip">Skip</string>
+
+    <string name="rv_emailreview_mergedlg_openbutton">No, open only</string>
+
+    <string name="cloud_toolbar_more_upload">Upload</string>
+ 	<string name="action_more">More</string>
+    <string name="rd_menu_file">File</string>
+
+    <!-- Slidingdoor Annotation Panel Resource -->
+    <string name="rv_panel_annot_title">Annotations</string>
+    <string name="rv_panel_annot_noinformation">No Annotation List</string>
+    <string name="rv_panel_annot_item_pagenum">Page </string>
+    <string name="rv_panel_annot_deleting">Deleting&#8230;</string>
+
+    <string name="rv_url_dialog_title">Visit</string>
+    <string name="rv_urldialog_title">Potential security problem exists when opening the link, please confirm to open.</string>
+    <string name="rv_urldialog_title_ko"></string>
+
+    <!-- gotopage  Resource		-->
+    <string name="rv_gotopage_error_toast">Please input correct page number</string>
+    <string name="rd_gotopage_toolbar_go">GO</string>
+
+    <!-- moremenu form  Resource		-->
+    <string name="formfiller_import_title">Import</string>
+    <string name="formfiller_export_title">Export</string>
+    <string name="fm_file_exist">File already exists</string>
+    <string name="formfiller_export_error">Failed to export the data.</string>
+
+    <!-- thumbnail  Resource		-->
+    <string name="rv_page_present_thumbnail">Thumbnail</string>
+
+    <string name="fx_string_font">Font</string>
+    <string name="fx_string_fontsize">FontSize</string>
+
+    <!--reading mark panel-->
+    <string name="fm_rename">Reanme</string>
+    <string name="rv_panel_readingbookmark_title">Reading Bookmarks</string>
+    <string name="rv_panel_readingbookmark_tips_noinfo">No Reading Bookmarks Information</string>
+    <string name="rv_panel_readingbookmark_tips_limited">The reading bookmark length is over the restricted limit.</string>
+    <string name="rd_panel_clear_readingbookmarks">Are you sure you want to clear all  reading bookmarks?</string>
+</resources>
+
